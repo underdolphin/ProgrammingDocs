@@ -1,6 +1,6 @@
 # ProgrammingDocs
 ## Overview
-プログラミングをやる上で最も障害になるのが**英語**です。ここでは様々なプログラミングに関する文書をメモ代わりに翻訳しておいていこうと思います。
+プログラミングに関する様々なメモなど
 
 ## License
 ライセンスは基本[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)です。  
